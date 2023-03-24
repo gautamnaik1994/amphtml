@@ -4,7 +4,7 @@
   "description": "amp storybook tasks",
   "main": "index.js",
   "devDependencies": {
-    "@ampproject/storybook-addon": "1.1.9",
+    "@ampproject/storybook-addon": "1.1.10",
     "@babel/core": "7.13.15",
     "@babel/preset-react": "7.13.13",
     "@babel/runtime-corejs3": "7.13.10",
